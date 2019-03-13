@@ -5,6 +5,10 @@ notational convention to express CBOR and JSON data structures.
 
 More information: https://datatracker.ietf.org/doc/draft-ietf-cbor-cddl/
 
-## Example
+## Examples
 
-![Image of Yaktocat](example.png)
+![Examples from the spec](example.png)
+
+Highlighting inside bytestrings:
+
+![Highlighting inside bytestrings](bytestrings.png)
